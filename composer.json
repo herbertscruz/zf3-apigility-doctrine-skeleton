@@ -43,7 +43,8 @@
         "zfcampus/zf-apigility-documentation-swagger": "^1.3",
         "zfr/zfr-cors": "1.*",
         "zfcampus/zf-apigility-doctrine": "^2.3",
-        "zfcampus/zf-apigility-admin": "^1.8"
+        "zfcampus/zf-apigility-admin": "^1.8",
+        "doctrine/doctrine-orm-module": "^2.1"
     },
     "require-dev": {
         "zendframework/zend-developer-tools": "^1.1",
